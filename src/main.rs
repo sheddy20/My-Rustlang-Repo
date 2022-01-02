@@ -7,7 +7,8 @@
 // mod example;
 // mod vectors;
 // mod conditionals;
-mod loops;
+// mod loops;
+mod testings;
 
 fn main() {
     //    print::run();
@@ -19,5 +20,6 @@ fn main() {
     // example::run();
     // vectors::run();
     // conditionals::run();
-    loops::my_loop();
+    // loops::my_loop();
+    testings::test_run();
 }
