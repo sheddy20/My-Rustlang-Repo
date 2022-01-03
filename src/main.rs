@@ -12,7 +12,8 @@
 // mod functions;
 // mod pointers;
 // mod structures;
-mod objects;
+// mod objects;
+mod enums;
 
 fn main() {
     //    print::run();
@@ -29,5 +30,6 @@ fn main() {
     // testings::test_run();
     // pointers::pointers_ref();
     // structures::struct_run();
-    objects::run();
+    // objects::run();
+    enums::enum_func();
 }
