@@ -8,7 +8,11 @@
 // mod vectors;
 // mod conditionals;
 // mod loops;
-mod testings;
+// mod testings;
+// mod functions;
+// mod pointers;
+// mod structures;
+mod objects;
 
 fn main() {
     //    print::run();
@@ -21,5 +25,9 @@ fn main() {
     // vectors::run();
     // conditionals::run();
     // loops::my_loop();
-    testings::test_run();
+    // functions::run_func();
+    // testings::test_run();
+    // pointers::pointers_ref();
+    // structures::struct_run();
+    objects::run();
 }
